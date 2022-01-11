@@ -1,0 +1,8 @@
+module.exports = {
+    semi: false, // 行位是否使用分号，默认为true
+    printWidth: 200, // 最大打印宽度，超出将换行
+    singleQuote: false, // 默认单引号 ，false 默认使用双引号
+    bracketSpacing: true,
+    jsxBracketSameLine: true,
+    htmlWhitespaceSensitivity: "ignore", // 问题1中的设置
+  };
